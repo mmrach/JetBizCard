@@ -57,7 +57,7 @@ fun CreateBizCard() {
             .height(390.dp)
             .padding(12.dp),
             shape = RoundedCornerShape(corner = CornerSize(15.dp)),
-            elevation = 4.dp) {
+            elevation = 5.dp) {
             Column(modifier = Modifier.height(300.dp),
                   verticalArrangement = Arrangement.Top,
                   horizontalAlignment = Alignment.CenterHorizontally) {
